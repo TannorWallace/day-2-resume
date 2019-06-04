@@ -1,3 +1,15 @@
 header{
   background-color: lightblue;
+  height: 20vh;
 }
+.right{
+float: right;
+text-align: right;
+}
+.left{
+float: left;
+}
+/*.right{
+float: right;
+text-align: right;
+}*/
